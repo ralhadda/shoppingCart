@@ -1,0 +1,22 @@
+{
+  "name": "before",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "cssnano": "^5.1.14",
+    "postcss": "^8.4.19"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
